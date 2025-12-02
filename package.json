@@ -1,6 +1,6 @@
 {
   "name": "node-ray",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Debug your NodeJS, TS & web code with Ray to understand and fix bugs faster",
   "main": "src/index.ts",
   "scripts": {
